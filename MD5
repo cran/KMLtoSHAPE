@@ -1,0 +1,7 @@
+5c920d2a843171d0c45819c4923560ff *DESCRIPTION
+90617cfb0550ec093cbbada7298bed04 *NAMESPACE
+51339669f0b363ff2aba7935c77849ba *R/kml_to_shape.R
+4e833f9a1197aa07f3eecc6b3d6b84c5 *R/kml_to_shape_gen.R
+b63b7396cd27ba1678e95d7339705d56 *inst/extdata/testkml.kml
+b055153527c5054cface8abc6177c72e *man/kml_to_shape.Rd
+b43426053974f5fc57d424359d8a0870 *man/kml_to_shape_gen.Rd
